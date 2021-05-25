@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/estefaniavidalbouzon/code/EstefaniaVB/TaxiFareModel/mlruns/1/c81430456f344c4b80f2e4f1d19c755a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c81430456f344c4b80f2e4f1d19c755a
+run_uuid: c81430456f344c4b80f2e4f1d19c755a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621968097929
+status: 1
+tags: []
+user_id: unknown
